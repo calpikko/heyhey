@@ -38,10 +38,10 @@ body {
     display: inline-block;
     background: white;
     margin: 1% 0;
-    color: black;
-    border: 3px solid #000000;
+    color: #545454;
+    border: 3px solid #545454;
     border-radius: 5px;
-    box-shadow: 2px 2px 1px 0px #000000;
+    box-shadow: 2px 2px 1px 0px #545454;
     max-width: 240px;
 
   
@@ -63,7 +63,7 @@ body {
 }
 
 .calculator .accent{
-   background: #f3fff3;  background: #f3fff3;;
+   background: #f2d5df;  background: #f2d5df;;
 }
 
 .calculator .space {
@@ -82,7 +82,7 @@ body {
 
 .calculator button:hover,
 #backspace:hover {
-  background: #f3fff3;
+  background: #d5e3f2;
   color:#000000;
   transform: scale(0.9);
   border-radius: 20%;
